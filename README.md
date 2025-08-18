@@ -15,16 +15,16 @@ them to `PHP` files which you can add to your code repositories.
 
 If you want to make it work with `PageBuilder` from **Magento 2.4.3** it is required to install additional composer package:
 ```
-qoliber/datapatchcreator-pagebuilder
+qoliber/m2-datapatchcreator-pagebuilder
 ```
-Details: https://github.com/qoliber/datapatchcreator-pagebuilder-compatibility
+Details: https://github.com/qoliber/m2-datapatchcreator-pagebuilder-compatibility
 
 
 ### Installation
 
 Installation is via `composer`
 ```
-composer require qoliber/datapatchcreator
+composer require qoliber/m2-datapatchcreator
 ```
 
 After installing the packages just run:
